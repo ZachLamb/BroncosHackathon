@@ -35,6 +35,12 @@ npm start
 
 Open the web browser to `http://localhost:8888/`
 
+###Add in upstream
+
+```
+git remote add upstream https://github.com/alicoding/react-webpack-babel.git
+```
+
 ### To build the production package
 
 ```
